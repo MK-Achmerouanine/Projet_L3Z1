@@ -1,0 +1,58 @@
+body{
+	/*background-image: url("http://www.lejournalinternational.fr/photo/art/grande/7384784-11372051.jpg");*/
+	background-image: url("../img/big-data.png");
+}
+
+
+#logo{
+	height:55px;
+	margin-left:20px;
+	margin-right:800px;	
+}
+
+h1{
+	color:red;
+	font-family: avenir next;
+}
+
+#ligne{
+	border:3px solid black;
+	background-color: white;
+	border-radius: 3px;
+	-moz-border-radius:3px;
+	height:580px;
+	margin-top:8px;
+	margin-left:170px;
+	margin-right:170px;	
+		
+	}
+
+.text{
+	color:black;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: bold;	
+	text-align: center;
+	margin-top:250px;
+	}
+	
+	
+.valider{
+	color:black;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: bold;	
+}
+footer{
+	border:3px solid black;
+	border-bottom : 2px;
+	border-top: 2px;
+	font-family: arial;
+	font-size: 8px;
+	height:55px;
+	margin-left:800px;
+	margin-right:10px;
+	margin-top: 310px;
+}
