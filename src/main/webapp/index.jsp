@@ -32,8 +32,9 @@
 		<br /> <br /> <br />
 		<h1>Big Data Project</h1>
 
-		<form role="form " class="form-group  col-lg-offset-4 col-lg-4"
+		<form role="form" class="form-group  col-lg-offset-4 col-lg-4"
 			action="">
+			// remplis l'action a 3chiry lah irdii 3liik ou pour la méthode je pense qu'il est en get par défaut alors fais gaffe dir method = "POST" 
 			<div class="form-group">
 				<label for="exampleInputLogin">Nom de compte :</label>
 				<div class="input-group input-group-sm">
